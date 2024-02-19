@@ -1,0 +1,26 @@
+.containersecond{
+  width: 160px;
+  height: 200px;
+  border: 2px solid blue;
+  margin:100px auto;
+  border-radius: 20px;
+
+
+}
+.con{
+  display: grid;
+  margin:60px auto;
+ width: 40px;
+
+}
+a{
+    text-decoration: none;
+    font-size: 15px;
+    color: white;
+}
+body{
+  background-image: url("imgs/IMG_4964.JPG");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
